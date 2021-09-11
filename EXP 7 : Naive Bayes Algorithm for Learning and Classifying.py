@@ -1,6 +1,6 @@
 MACHINE LEARNING LABORATORY
 1817119_JAYANTHI T
-✫ EXP 7 : Naive Bayes Algorithm for Learning and Classifying
+✫ EXP 7 : Naive Bayes Algorithm for Learning and Classifying (Error Output Not Obtained)
 [ ]
 import pandas as pd
 from sklearn.model_selection import train_test_split
